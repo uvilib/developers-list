@@ -1,0 +1,156 @@
+{
+  "developers": [
+    {
+      "key": "1",
+      "surname": "Ознобов",
+      "name": "Виктор",
+      "patronymic": "Сергеевич",
+      "level": "middle",
+      "direction": "Frontend"
+    },
+    {
+      "key": "2",
+      "surname": "Футляров",
+      "name": "Степан",
+      "patronymic": "Григорьевич",
+      "level": "junior",
+      "direction": "Frontend"
+    },
+    {
+      "key": "3",
+      "surname": "Генин",
+      "name": "Руслан",
+      "patronymic": "Артемович",
+      "level": "junior",
+      "direction": "Backend"
+    },
+    {
+      "key": "4",
+      "surname": "Щеглов",
+      "name": "Роман",
+      "patronymic": "Петрович",
+      "level": "senior",
+      "direction": "Backend"
+    },
+    {
+      "key": "5",
+      "surname": "Жмышенко",
+      "name": "Валерий",
+      "patronymic": "Альбертович",
+      "level": "senior",
+      "direction": "Backend"
+    },
+    {
+      "key": "6",
+      "surname": "Курпатов",
+      "name": "Альберт",
+      "patronymic": "Альбертович",
+      "level": "middle",
+      "direction": "Frontend"
+    },
+    {
+      "key": "7",
+      "surname": "Егорлык",
+      "name": "Дмитрий",
+      "patronymic": "Алексеевич",
+      "level": "junior",
+      "direction": "Backend"
+    },
+    {
+      "key": "8",
+      "surname": "Лучков",
+      "name": "Владимир",
+      "patronymic": "Федорович",
+      "level": "middle",
+      "direction": "Backend"
+    },
+    {
+      "key": "9",
+      "surname": "Золо",
+      "name": "Иван",
+      "patronymic": "Сергеевич",
+      "level": "junior",
+      "direction": "Frontend"
+    },
+    {
+      "key": "10",
+      "surname": "Прагин",
+      "name": "Илья",
+      "patronymic": "Сергеевич",
+      "level": "middle",
+      "direction": "Backend"
+    },
+    {
+      "key": "11",
+      "surname": "Ларин",
+      "name": "Дмитрий",
+      "patronymic": "Нулович",
+      "level": "junior",
+      "direction": "Frontend"
+    },
+    {
+      "key": "12",
+      "surname": "Ивлев",
+      "name": "Павел",
+      "patronymic": "Николаевич",
+      "level": "senior",
+      "direction": "Backend"
+    },
+    {
+      "key": "13",
+      "surname": "Рудальков",
+      "name": "Евгений",
+      "patronymic": "Степанович",
+      "level": "senior",
+      "direction": "Frontend"
+    },
+    {
+      "key": "14",
+      "surname": "Пригожин",
+      "name": "Евгений",
+      "patronymic": "Викторович",
+      "level": "senior",
+      "direction": "Frontend"
+    },
+    {
+      "key": "15",
+      "surname": "Вилькова",
+      "name": "Ольга",
+      "patronymic": "Сергеевна",
+      "level": "middle",
+      "direction": "Frontend"
+    },
+    {
+      "key": "16",
+      "surname": "Ледник",
+      "name": "Роман",
+      "patronymic": "Сергеевич",
+      "level": "junior",
+      "direction": "Backend"
+    },
+    {
+      "key": "17",
+      "surname": "Хлорина",
+      "name": "Виктория",
+      "patronymic": "Николаевна",
+      "level": "middle",
+      "direction": "Frontend"
+    },
+    {
+      "key": "19",
+      "surname": "Лукас",
+      "name": "Людмила",
+      "patronymic": "Викторовна",
+      "level": "junior",
+      "direction": "Frontend"
+    },
+    {
+      "key": "20",
+      "surname": "Дрябко",
+      "name": "Роман",
+      "patronymic": "Алексеевич",
+      "level": "senior",
+      "direction": "Backend"
+    }
+  ]
+}
